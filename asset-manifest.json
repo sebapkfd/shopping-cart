@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.2ba60157.chunk.css",
-    "main.js": "/shopping-cart/static/js/main.2bfedb4d.chunk.js",
-    "main.js.map": "/shopping-cart/static/js/main.2bfedb4d.chunk.js.map",
+    "main.js": "/shopping-cart/static/js/main.64dc9318.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.64dc9318.chunk.js.map",
     "runtime-main.js": "/shopping-cart/static/js/runtime-main.b56c1ee8.js",
     "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b56c1ee8.js.map",
-    "static/js/2.294712fd.chunk.js": "/shopping-cart/static/js/2.294712fd.chunk.js",
-    "static/js/2.294712fd.chunk.js.map": "/shopping-cart/static/js/2.294712fd.chunk.js.map",
+    "static/js/2.3fed4e4d.chunk.js": "/shopping-cart/static/js/2.3fed4e4d.chunk.js",
+    "static/js/2.3fed4e4d.chunk.js.map": "/shopping-cart/static/js/2.3fed4e4d.chunk.js.map",
     "index.html": "/shopping-cart/index.html",
     "static/css/main.2ba60157.chunk.css.map": "/shopping-cart/static/css/main.2ba60157.chunk.css.map",
-    "static/js/2.294712fd.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.294712fd.chunk.js.LICENSE.txt",
+    "static/js/2.3fed4e4d.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.3fed4e4d.chunk.js.LICENSE.txt",
     "static/media/Acer-Aspire5.114e93f5.jpg": "/shopping-cart/static/media/Acer-Aspire5.114e93f5.jpg",
+    "static/media/Acer-Nitro.c9c634d0.jpg": "/shopping-cart/static/media/Acer-Nitro.c9c634d0.jpg",
     "static/media/Acer-Predator.aebe61ae.jpg": "/shopping-cart/static/media/Acer-Predator.aebe61ae.jpg",
     "static/media/Asus-ROG.2df933b0.jpg": "/shopping-cart/static/media/Asus-ROG.2df933b0.jpg",
     "static/media/Asus-TUF.2ed36409.jpg": "/shopping-cart/static/media/Asus-TUF.2ed36409.jpg",
+    "static/media/Asus-VivoBook.3f88b06b.jpg": "/shopping-cart/static/media/Asus-VivoBook.3f88b06b.jpg",
+    "static/media/Asus-ZenBook.d019107e.jpg": "/shopping-cart/static/media/Asus-ZenBook.d019107e.jpg",
     "static/media/LG-Ultra.8028a31d.jpg": "/shopping-cart/static/media/LG-Ultra.8028a31d.jpg",
     "static/media/MSI-Creator15.dc9df2ca.jpg": "/shopping-cart/static/media/MSI-Creator15.dc9df2ca.jpg",
     "static/media/MSI-GE66.22262f70.jpg": "/shopping-cart/static/media/MSI-GE66.22262f70.jpg",
@@ -22,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b56c1ee8.js",
-    "static/js/2.294712fd.chunk.js",
+    "static/js/2.3fed4e4d.chunk.js",
     "static/css/main.2ba60157.chunk.css",
-    "static/js/main.2bfedb4d.chunk.js"
+    "static/js/main.64dc9318.chunk.js"
   ]
 }
