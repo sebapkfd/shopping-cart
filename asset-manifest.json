@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.5b7e8c43.chunk.css",
-    "main.js": "/shopping-cart/static/js/main.8b20aa3a.chunk.js",
-    "main.js.map": "/shopping-cart/static/js/main.8b20aa3a.chunk.js.map",
+    "main.css": "/shopping-cart/static/css/main.3e1fb6ca.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.989b3afd.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.989b3afd.chunk.js.map",
     "runtime-main.js": "/shopping-cart/static/js/runtime-main.b56c1ee8.js",
     "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b56c1ee8.js.map",
     "static/js/2.1b6869f5.chunk.js": "/shopping-cart/static/js/2.1b6869f5.chunk.js",
     "static/js/2.1b6869f5.chunk.js.map": "/shopping-cart/static/js/2.1b6869f5.chunk.js.map",
     "index.html": "/shopping-cart/index.html",
-    "static/css/main.5b7e8c43.chunk.css.map": "/shopping-cart/static/css/main.5b7e8c43.chunk.css.map",
+    "static/css/main.3e1fb6ca.chunk.css.map": "/shopping-cart/static/css/main.3e1fb6ca.chunk.css.map",
     "static/js/2.1b6869f5.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.1b6869f5.chunk.js.LICENSE.txt",
     "static/media/Acer-Aspire5.114e93f5.jpg": "/shopping-cart/static/media/Acer-Aspire5.114e93f5.jpg",
     "static/media/Acer-Nitro.c9c634d0.jpg": "/shopping-cart/static/media/Acer-Nitro.c9c634d0.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.b56c1ee8.js",
     "static/js/2.1b6869f5.chunk.js",
-    "static/css/main.5b7e8c43.chunk.css",
-    "static/js/main.8b20aa3a.chunk.js"
+    "static/css/main.3e1fb6ca.chunk.css",
+    "static/js/main.989b3afd.chunk.js"
   ]
 }
