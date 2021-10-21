@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.5120ed74.chunk.css",
-    "main.js": "/shopping-cart/static/js/main.38e64ca6.chunk.js",
-    "main.js.map": "/shopping-cart/static/js/main.38e64ca6.chunk.js.map",
+    "main.css": "/shopping-cart/static/css/main.ca7a2de2.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.4ba09366.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.4ba09366.chunk.js.map",
     "runtime-main.js": "/shopping-cart/static/js/runtime-main.b56c1ee8.js",
     "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b56c1ee8.js.map",
-    "static/js/2.ba2d06d9.chunk.js": "/shopping-cart/static/js/2.ba2d06d9.chunk.js",
-    "static/js/2.ba2d06d9.chunk.js.map": "/shopping-cart/static/js/2.ba2d06d9.chunk.js.map",
+    "static/js/2.37c35482.chunk.js": "/shopping-cart/static/js/2.37c35482.chunk.js",
+    "static/js/2.37c35482.chunk.js.map": "/shopping-cart/static/js/2.37c35482.chunk.js.map",
     "index.html": "/shopping-cart/index.html",
-    "static/css/main.5120ed74.chunk.css.map": "/shopping-cart/static/css/main.5120ed74.chunk.css.map",
-    "static/js/2.ba2d06d9.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.ba2d06d9.chunk.js.LICENSE.txt",
+    "static/css/main.ca7a2de2.chunk.css.map": "/shopping-cart/static/css/main.ca7a2de2.chunk.css.map",
+    "static/js/2.37c35482.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.37c35482.chunk.js.LICENSE.txt",
     "static/media/Acer-Aspire5.114e93f5.jpg": "/shopping-cart/static/media/Acer-Aspire5.114e93f5.jpg",
     "static/media/Acer-Nitro.c9c634d0.jpg": "/shopping-cart/static/media/Acer-Nitro.c9c634d0.jpg",
     "static/media/Acer-Predator.aebe61ae.jpg": "/shopping-cart/static/media/Acer-Predator.aebe61ae.jpg",
@@ -22,16 +22,12 @@
     "static/media/MSI-GE66.22262f70.jpg": "/shopping-cart/static/media/MSI-GE66.22262f70.jpg",
     "static/media/MSI-GL65.3b650193.jpg": "/shopping-cart/static/media/MSI-GL65.3b650193.jpg",
     "static/media/Razer-Blade.eeeb8253.jpg": "/shopping-cart/static/media/Razer-Blade.eeeb8253.jpg",
-    "static/media/acer.65b2800d.png": "/shopping-cart/static/media/acer.65b2800d.png",
-    "static/media/asus.c460d35e.png": "/shopping-cart/static/media/asus.c460d35e.png",
-    "static/media/home.41f78fe9.png": "/shopping-cart/static/media/home.41f78fe9.png",
-    "static/media/lg.62fb4efa.png": "/shopping-cart/static/media/lg.62fb4efa.png",
-    "static/media/msi.55a12d68.png": "/shopping-cart/static/media/msi.55a12d68.png"
+    "static/media/home.41f78fe9.png": "/shopping-cart/static/media/home.41f78fe9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b56c1ee8.js",
-    "static/js/2.ba2d06d9.chunk.js",
-    "static/css/main.5120ed74.chunk.css",
-    "static/js/main.38e64ca6.chunk.js"
+    "static/js/2.37c35482.chunk.js",
+    "static/css/main.ca7a2de2.chunk.css",
+    "static/js/main.4ba09366.chunk.js"
   ]
 }
